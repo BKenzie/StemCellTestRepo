@@ -2,4 +2,9 @@ This is a test file.
 This is an edit to the file.
 A second edit.
 
+<<<<<<< HEAD
 This edit is on master but not on FirstBranch. 
+=======
+This is an edit for the FirstBranch.
+One more edit on this branch before attempting to merge back to master branch.
+>>>>>>> FirstBranch
