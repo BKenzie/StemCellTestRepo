@@ -9,4 +9,10 @@ This is an edit for the FirstBranch.
 One more edit on this branch before attempting to merge back to master branch.
 >>>>>>> FirstBranch
 
+<<<<<<< HEAD
 This is ok. This is fine...
+=======
+This edit was made directly to the remote repo to se what happens when I attempt a push now.
+>>>>>>> 7f2c4a60b34a3fc6146357dd0368bccce222d67e
+
+Ok that is what I was hoping.
