@@ -16,3 +16,8 @@ This edit was made directly to the remote repo to se what happens when I attempt
 >>>>>>> 7f2c4a60b34a3fc6146357dd0368bccce222d67e
 
 Ok that is what I was hoping.
+
+
+
+TORTOISE GIT PRACTICE
+
